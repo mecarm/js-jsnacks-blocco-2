@@ -10,5 +10,5 @@ function myFunction() {
     let pippo = document.createElement("li");
     let li = document.createTextNode(randomPerson);
     pippo.appendChild(li);
-    document.getElementById("invitato").appendChild (pippo);
+    document.getElementById("invitato").appendChild(pippo);
   }
